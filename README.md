@@ -23,10 +23,10 @@ To run this game on your local machine, follow these steps:
 # How to Play
 Use the arrow keys on your keyboard to control the direction of the snake.
 
-Arrow Up: Move up
-Arrow Down: Move down
-Arrow Left: Move left
-Arrow Right: Move right
+- Arrow Up: Move up
+- Arrow Down: Move down
+- Arrow Left: Move left
+- Arrow Right: Move right
 The goal is to eat as much food as possible. Each time the snake eats food, it grows longer, and your score increases.
 
 ### The game ends when the snake collides with itself or the wall.
